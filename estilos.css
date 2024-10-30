@@ -1,0 +1,53 @@
+h3 {
+  text-align: center;
+  color: aquamarine;
+}
+
+h2 {
+
+  text-align: center;
+  color: aqua;
+  border: 2px solid powderblue;
+}
+
+p {
+  color: rgb(40, 81, 143);
+}
+
+a {
+
+  text-decoration: none;
+}
+
+
+.sub {
+  width: 300px;
+  margin: auto;
+  background-color: #70cae9;
+ text-align: center;color: #c78e8e;
+}
+.img {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+table, th, td {
+  border:1px solid black;
+}
+#resumen {
+color: red;
+
+
+}
+
+
+
+
+
+
